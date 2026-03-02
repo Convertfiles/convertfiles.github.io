@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://convertfiles.github.io/sitemap.xml
